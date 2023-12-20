@@ -1,6 +1,6 @@
 # Welcome to Promptify 
 
-## a dynamic and responsive website crafted with the cutting-edge technology of Next.js. Promptify is designed to provide a seamless and engaging user experience, leveraging the power of server-side rendering and efficient client-side navigation. Our platform is dedicated to transforming ideas into action, offering a prompt and efficient environment for developers and creators alike. Explore the possibilities with Promptify, where innovation meets speed in the world of web development.
+### a dynamic and responsive website crafted with the cutting-edge technology of Next.js. Promptify is designed to provide a seamless and engaging user experience, leveraging the power of server-side rendering and efficient client-side navigation. Our platform is dedicated to transforming ideas into action, offering a prompt and efficient environment for developers and creators alike. Explore the possibilities with Promptify, where innovation meets speed in the world of web development.
 
 ## Getting Started
 
