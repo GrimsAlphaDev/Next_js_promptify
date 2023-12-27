@@ -37,3 +37,9 @@ next-env.d.ts
 
 # env
 .env
+
+# ignore test
+app/test-page
+app/api/post
+components/Form2.jsx
+models/post.js
